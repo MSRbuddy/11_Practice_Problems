@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\bin\Debug\net6.0\MaxSellingPrice.exe
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\bin\Debug\net6.0\MaxSellingPrice.deps.json
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\bin\Debug\net6.0\MaxSellingPrice.runtimeconfig.json
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\bin\Debug\net6.0\MaxSellingPrice.dll
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\bin\Debug\net6.0\MaxSellingPrice.pdb
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\obj\Debug\net6.0\MaxSellingPrice.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\obj\Debug\net6.0\MaxSellingPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\obj\Debug\net6.0\MaxSellingPrice.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\obj\Debug\net6.0\MaxSellingPrice.AssemblyInfo.cs
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\obj\Debug\net6.0\MaxSellingPrice.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\obj\Debug\net6.0\MaxSellingPrice.dll
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\obj\Debug\net6.0\refint\MaxSellingPrice.dll
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\obj\Debug\net6.0\MaxSellingPrice.pdb
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\obj\Debug\net6.0\MaxSellingPrice.genruntimeconfig.cache
+C:\Users\USER\source\BL\11-Practice-Problems\MaxSellingPrice\MaxSellingPrice\obj\Debug\net6.0\ref\MaxSellingPrice.dll
