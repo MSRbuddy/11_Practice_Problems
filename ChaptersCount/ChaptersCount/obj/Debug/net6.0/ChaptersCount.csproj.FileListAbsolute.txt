@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\bin\Debug\net6.0\ChaptersCount.exe
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\bin\Debug\net6.0\ChaptersCount.deps.json
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\bin\Debug\net6.0\ChaptersCount.runtimeconfig.json
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\bin\Debug\net6.0\ChaptersCount.dll
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\bin\Debug\net6.0\ChaptersCount.pdb
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\obj\Debug\net6.0\ChaptersCount.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\obj\Debug\net6.0\ChaptersCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\obj\Debug\net6.0\ChaptersCount.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\obj\Debug\net6.0\ChaptersCount.AssemblyInfo.cs
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\obj\Debug\net6.0\ChaptersCount.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\obj\Debug\net6.0\ChaptersCount.dll
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\obj\Debug\net6.0\refint\ChaptersCount.dll
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\obj\Debug\net6.0\ChaptersCount.pdb
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\obj\Debug\net6.0\ChaptersCount.genruntimeconfig.cache
+C:\Users\USER\source\BL\11-Practice-Problems\ChaptersCount\ChaptersCount\obj\Debug\net6.0\ref\ChaptersCount.dll
